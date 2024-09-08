@@ -1,2 +1,2 @@
 # NixConv
-A Python parser for Nix code
+A parser for Nix code
